@@ -1,0 +1,17 @@
+C:\Users\Novanotio\Documents\GitHub\MTournament\MTournament\bin\Debug\MTournament.dll
+C:\Users\Novanotio\Documents\GitHub\MTournament\MTournament\bin\Debug\MTournament.pdb
+C:\Users\Novanotio\Documents\GitHub\MTournament\MTournament\bin\Debug\MTournament.pri
+C:\Users\Novanotio\Documents\GitHub\MTournament\MTournament\obj\Debug\MTournament.csprojResolveAssemblyReference.cache
+C:\Users\Novanotio\Documents\GitHub\MTournament\MTournament\obj\Debug\MTournament.dll
+C:\Users\Novanotio\Documents\GitHub\MTournament\MTournament\obj\Debug\MTournament.pdb
+C:\Users\Novanotio\Documents\GitHub\MTournament\MTournament\obj\Debug\priconfig.xml
+C:\Users\Novanotio\Documents\GitHub\MTournament\MTournament\obj\Debug\priconfig.xml.intermediate
+C:\Users\Novanotio\Documents\GitHub\MTournament\MTournament\obj\Debug\layout.resfiles
+C:\Users\Novanotio\Documents\GitHub\MTournament\MTournament\obj\Debug\layout.resfiles.intermediate
+C:\Users\Novanotio\Documents\GitHub\MTournament\MTournament\obj\Debug\resources.resfiles
+C:\Users\Novanotio\Documents\GitHub\MTournament\MTournament\obj\Debug\resources.resfiles.intermediate
+C:\Users\Novanotio\Documents\GitHub\MTournament\MTournament\obj\Debug\pri.resfiles
+C:\Users\Novanotio\Documents\GitHub\MTournament\MTournament\obj\Debug\pri.resfiles.intermediate
+C:\Users\Novanotio\Documents\GitHub\MTournament\MTournament\obj\Debug\qualifiers.txt
+C:\Users\Novanotio\Documents\GitHub\MTournament\MTournament\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Novanotio\Documents\GitHub\MTournament\MTournament\obj\Debug\MultipleQualifiersPerDimensionFound.txt
